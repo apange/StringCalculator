@@ -1,0 +1,9 @@
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\obj\Debug\StringCalculator.Form1.resources
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\obj\Debug\StringCalculator.Properties.Resources.resources
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.GenerateResource.Cache
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+D:\Users\apange\Desktop\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
